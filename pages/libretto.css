@@ -15,6 +15,23 @@
   @import url(../blocks/menu/__link/menu__link.css);
 /* Контент */
 @import url(../blocks/content/content.css);
+@import url(../blocks/song-list/song-list.css);
+  @import url(../blocks/song-list/__subtitle/song-list__subtitle.css);
+  @import url(../blocks/song-list/__link/song-list__link.css);
+  @import url(../blocks/song-list/__description/song-list__description.css);
+@import url(../blocks/song/song.css);
+  @import url(../blocks/song/__header/song__header.css);
+  @import url(../blocks/song/__name/song__name.css);
+  @import url(../blocks/song/__original/song__original.css);
+  @import url(../blocks/song/__persons/song__persons.css);
+  @import url(../blocks/song/__comment/song__comment.css);
+  @import url(../blocks/song/__lyric/song__lyric.css);
+  @import url(../blocks/song/__two-columns/song__two-columns.css);
+  @import url(../blocks/song/__role/song__role.css);
+
+
+
+
 /* Подвал */
 @import url(../blocks/footer/footer.css);
 

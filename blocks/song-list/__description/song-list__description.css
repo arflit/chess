@@ -1,0 +1,6 @@
+.song-list__description {
+  display: inline;
+  padding-left: 20px;
+  font-style: italic;
+  font-size: 20px;
+}
