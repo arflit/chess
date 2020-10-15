@@ -1,0 +1,22 @@
+/* нормалайз и шрифты */
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+/* вся страница и технические блоки для миксов */
+@import url(../blocks/page/page.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/_active/link_active.css);
+/* Шапка */
+@import url(../blocks/header/header.css);
+  @import url(../blocks/header__title/header__title.css);
+  @import url(../blocks/header__subtitle/header__subtitle.css);
+@import url(../blocks/menu/menu.css);
+  @import url(../blocks/menu/__list/menu__list.css);
+  @import url(../blocks/menu/__list-element/menu__list-element.css);
+  @import url(../blocks/menu/__link/menu__link.css);
+/* Контент */
+@import url(../blocks/content/content.css);
+@import url(../blocks/staff-table/staff-table.css);
+/* Подвал */
+@import url(../blocks/footer/footer.css);
+
+
