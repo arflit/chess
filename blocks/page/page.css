@@ -11,13 +11,12 @@
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  font-size: 20px;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
  @media (max-width: 800px) {
    .page {
      padding: 16px;
-     font-size: 14px;
    }
  }

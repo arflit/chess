@@ -1,5 +1,11 @@
 .song__lyric {
   margin: 0;
-  width: 82%;
+  width: 87%;
   min-width: 800px;
+}
+
+.song__lyricс {
+  margin: 0;
+  width: 40%;
+  min-width: 300px;
 }
