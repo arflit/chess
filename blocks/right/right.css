@@ -1,3 +1,4 @@
 .right {
-  text-align: right;
+  padding-left: 100px;
+  box-sizing: border-box  ;
 }

@@ -1,4 +1,7 @@
 .song__persons {
   margin: 0;
   padding-left: 30px;
+  position: relative;
+  top: 3px;
+
 }

@@ -26,8 +26,8 @@
   @import url(../blocks/song/__name/song__name.css);
   @import url(../blocks/song/__original/song__original.css);
   @import url(../blocks/song/__persons/song__persons.css);
-  @import url(../blocks/song/__comment/song__comment.css);
   @import url(../blocks/song/__lyric/song__lyric.css);
+  @import url(../blocks/song/__comment/song__comment.css);
   @import url(../blocks/song/__two-columns/song__two-columns.css);
   @import url(../blocks/song/__role/song__role.css);
   @import url(../blocks/song/__duet/song__duet.css);
