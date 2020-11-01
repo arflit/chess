@@ -4,9 +4,8 @@
   justify-content: space-between;
 }
 
-@media (max-width: 1140px) {
+@media (max-width: 900px) {
   .song__two-columns {
     flex-direction: column;
-    
   }
 }
