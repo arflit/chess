@@ -6,6 +6,7 @@
 @import url(../blocks/link/link.css);
 @import url(../blocks/link/_active/link_active.css);
 @import url(../blocks/right/right.css);
+@import url(../blocks/hide/hide.css);
 
 /* Шапка */
 @import url(../blocks/header/header.css);
@@ -22,6 +23,7 @@
   @import url(../blocks/song-list/__link/song-list__link.css);
   @import url(../blocks/song-list/__description/song-list__description.css);
 @import url(../blocks/song/song.css);
+  @import url(../blocks/song-container/song-container.css);
   @import url(../blocks/song/__header/song__header.css);
   @import url(../blocks/song/__name/song__name.css);
   @import url(../blocks/song/__original/song__original.css);

@@ -18,5 +18,14 @@
  @media (max-width: 800px) {
    .page {
      padding: 16px;
+     box-sizing: border-box;
    }
  }
+
+
+ @media (max-width: 420px) {
+  .page {
+    padding: 4px;
+    box-sizing: border-box;
+  }
+}

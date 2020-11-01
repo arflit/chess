@@ -5,3 +5,9 @@
   text-transform: uppercase;
 }
 
+@media (max-width: 420px) {
+  .header__subtitle {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+}

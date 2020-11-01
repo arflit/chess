@@ -2,3 +2,9 @@
   padding-left: 100px;
   box-sizing: border-box  ;
 }
+
+@media (max-width: 420px) {
+  .right {
+    padding-left: 40px;
+  }
+}

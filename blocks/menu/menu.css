@@ -8,3 +8,10 @@
     width: 90%;
   }
 }
+
+@media (max-width: 420px) {
+.menu {
+  width: 120px;
+  margin: 0 0 0 10px;
+}
+}

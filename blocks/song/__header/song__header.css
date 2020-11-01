@@ -1,4 +1,11 @@
 .song__header {
   display: flex;
   margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 420px) {
+  .song__header {
+
+  }
 }

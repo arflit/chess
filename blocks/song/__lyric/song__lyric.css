@@ -1,11 +1,21 @@
 .song__lyric {
   margin: 0;
   width: 87%;
-  min-width: 800px;
 }
 
 .song__lyricс {
   margin: 0;
   width: 40%;
-  min-width: 300px;
+}
+
+@media (max-width: 900px) {
+  .song__lyric {
+    width: 100%;
+    min-width: 310px;
+  }
+
+  .song__lyricс {
+    width: 100%;
+    min-width: 310px;
+  }
 }

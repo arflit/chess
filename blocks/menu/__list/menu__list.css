@@ -4,3 +4,10 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (max-width: 420px) {
+  .menu__list {
+    flex-direction: column;
+    margin: 0;
+  }
+}
