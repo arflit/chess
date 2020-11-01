@@ -1,0 +1,10 @@
+.show900 {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .show900 {
+    display: flex;
+    flex-direction: column;
+  }
+}

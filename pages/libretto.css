@@ -7,6 +7,9 @@
 @import url(../blocks/link/_active/link_active.css);
 @import url(../blocks/right/right.css);
 @import url(../blocks/hide/hide.css);
+@import url(../blocks/hide900/hide900.css);
+@import url(../blocks/show900/show900.css);
+
 
 /* Шапка */
 @import url(../blocks/header/header.css);

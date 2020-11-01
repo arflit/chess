@@ -1,0 +1,10 @@
+.hide900 {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 900px) {
+  .hide900 {
+    display: none;
+  }
+}
